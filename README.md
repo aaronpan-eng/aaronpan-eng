@@ -2,7 +2,7 @@
 
 - 🖋️ I’m a current MS in Robotics student
 - 🤖 Previous work experience as a mechanical engineer @ iRobot working on new and improved consumer robotics products
-- 🌱 Looking to dive into Software roles in Robotics, Aerospace, AI/ML, Electromechanical, etc.
+- 🌱 Looking to dive into Software roles in Robotics, Aerospace, AI/ML, Electromechanical, Embedded, etc.
 - 🔨 I am looking to collaborate on any projects related to Computer Vision, Path Planning, Sensing, Kinematics, Etc.
 
 -⚡ Fun fact: I like to workout, rock climb, & cook random recipes in my free time
